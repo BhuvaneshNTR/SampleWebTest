@@ -2,7 +2,7 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace SampleWebTest
+namespace SampleWebFlow
 {
     public class Tests
     {
